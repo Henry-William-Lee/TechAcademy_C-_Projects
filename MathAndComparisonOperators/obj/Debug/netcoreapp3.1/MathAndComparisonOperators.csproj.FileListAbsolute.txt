@@ -1,0 +1,14 @@
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.AssemblyReference.cache
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfo.cs
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.exe
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.deps.json
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.json
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.dev.json
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.genruntimeconfig.cache
