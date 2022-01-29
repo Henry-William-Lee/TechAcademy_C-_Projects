@@ -1,0 +1,14 @@
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\bin\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.exe
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\bin\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.deps.json
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\bin\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.runtimeconfig.json
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\bin\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\bin\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.dll
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\bin\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.pdb
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\obj\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\obj\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\obj\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\obj\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.AssemblyInfo.cs
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\obj\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\obj\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.dll
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\obj\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.pdb
+C:\Users\sherl\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicSubmissionAssignment\obj\Debug\netcoreapp3.1\BooleanLogicSubmissionAssignment.genruntimeconfig.cache
