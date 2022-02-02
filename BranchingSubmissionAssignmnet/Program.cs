@@ -14,38 +14,44 @@ namespace BranchingSubmissionAssignmnet
 
             int pkgWht = Convert.ToInt32(Console.ReadLine());
 
-            if (pkgWht >50)
+            if (pkgWht > 50)
             {
                 Console.Write("Your package is too heavy. ");
-
             }
 
-            Console.ReadLine();
-            Console.WriteLine("What is the height of your package?");
-            int pkgHt = Convert.ToInt32(Console.ReadLine());
+            else if (pkgWht < 50)
+           { 
+                Console.WriteLine("What is the height of your package?");
+                int pkgHt = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("What is the length of your package?");
-            int pkgLen = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("What is the length of your package?");
+                int pkgLen = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("What is the width of your package?");
-            int pkgWdth= Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("What is the width of your package?");
+                int pkgWdth = Convert.ToInt32(Console.ReadLine());
 
-            int pckgttl = pkgWdth + pkgHt + pkgHt;
+                int pckgttl = pkgWdth + pkgHt + pkgHt;
 
+                if (pckgttl > 50)
+                {
+                    Console.WriteLine("Your package is too large.");
+                }
 
-            if (pckgttl > 50) 
-            {
-                Console.WriteLine("Your package is too large.");
-            }
+                else if (pckgttl < 50)
 
-            int pckttl2 = pkgHt * pkgLen * pkgWdth;
+                {
+                    double pckttl2 = pkgHt * pkgLen * pkgWdth;
 
-            // pkg ttl 2 * pkg weight
-            int pckttl3 = pckttl2 * pkgWht;
+                    // pkg ttl 2 * pkg weight
+                    double pckttl3 = pckttl2 * pkgWht;
 
-            //package weight * pkg height * pck width * pkg length / 100
-            decimal pckttl4 = Convert.ToDecimal(pckttl3);
-            Console.WriteLine("Your total is $" + pckttl4 + ".");
+                    //package weight * pkg height * pck width * pkg length / 100
+
+                    decimal pckttl4 = Convert.ToDecimal(pckttl3);
+                    decimal pckttl5 = pckttl4 / 100;
+                    Console.WriteLine("Your total is $" + pckttl5 + ".");
+                }
+             }
 
 
 
