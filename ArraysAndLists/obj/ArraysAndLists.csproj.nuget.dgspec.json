@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TechAcademy_CSharp_Projects\\BranchingSubmissionAssignmnet\\BranchingSubmissionAssignmnet.csproj": {}
+    "C:\\Users\\sherl\\OneDrive\\Desktop\\Basic_C#_Programs\\ArraysAndLists\\ArraysAndLists.csproj": {}
   },
   "projects": {
-    "C:\\TechAcademy_CSharp_Projects\\BranchingSubmissionAssignmnet\\BranchingSubmissionAssignmnet.csproj": {
+    "C:\\Users\\sherl\\OneDrive\\Desktop\\Basic_C#_Programs\\ArraysAndLists\\ArraysAndLists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TechAcademy_CSharp_Projects\\BranchingSubmissionAssignmnet\\BranchingSubmissionAssignmnet.csproj",
-        "projectName": "BranchingSubmissionAssignmnet",
-        "projectPath": "C:\\TechAcademy_CSharp_Projects\\BranchingSubmissionAssignmnet\\BranchingSubmissionAssignmnet.csproj",
+        "projectUniqueName": "C:\\Users\\sherl\\OneDrive\\Desktop\\Basic_C#_Programs\\ArraysAndLists\\ArraysAndLists.csproj",
+        "projectName": "ArraysAndLists",
+        "projectPath": "C:\\Users\\sherl\\OneDrive\\Desktop\\Basic_C#_Programs\\ArraysAndLists\\ArraysAndLists.csproj",
         "packagesPath": "C:\\Users\\sherl\\.nuget\\packages\\",
-        "outputPath": "C:\\TechAcademy_CSharp_Projects\\BranchingSubmissionAssignmnet\\obj\\",
+        "outputPath": "C:\\Users\\sherl\\OneDrive\\Desktop\\Basic_C#_Programs\\ArraysAndLists\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
