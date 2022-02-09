@@ -22,29 +22,31 @@ namespace ConsoleAppsStringsAndIntergersSubmissionAssignment
             firstlist.Add(61);
 
 
-            Console.WriteLine("Write a number to divide the list by. ");
-
-            int dividedBy = Convert.ToInt32(Console.ReadLine());
-
-            try {
-
-                int i = 0; i < firstlist.Count; i++;
-                 Console.WriteLine(firstlist[i] / dividedBy);
+            try
+            {
                 
+                Console.WriteLine("Write a number to divide the list by. ");
+
+                int dividedBy = Convert.ToInt32(Console.ReadLine());
+
+                foreach (int i in firstlist)
+                {
+                    Console.WriteLine( i / dividedBy);
+                }
             }
              
 
-            catch (FormatException)
+            catch (FormatException y)
 
             {
-                Console.WriteLine("Please type a whole number.");
+                Console.WriteLine(y.Message);
                 return;
             }
 
-            catch (DivideByZeroException)
+            catch (DivideByZeroException z)
 
             {
-                Console.WriteLine("Please don't divide by  zero.");
+                Console.WriteLine(z.Message);
             }
             catch (Exception ex)
 
